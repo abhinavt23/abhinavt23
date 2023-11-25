@@ -30,5 +30,6 @@ I'm a seasoned Technical Team Lead with a passion for building innovative SaaS a
 ## 📫 Let's Connect
 
 Feel free to reach out if you share a passion for technology, coding, or Fintech! Let's collaborate and build something amazing together.
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=abhinavt23.DesignPatterns)
+```markdown
+![](https://api.visitorbadge.io/api/VisitorHit?user=abhinavt23&repo=github-visitors-badge&countColor=%237B1E7A)
+```
