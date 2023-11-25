@@ -33,6 +33,6 @@ Feel free to reach out if you share a passion for technology, coding, or Fintech
 
 <p align="center">
   <a href="#">
-      <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" />
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=abhinavt23&repo=github-visitors-badge&countColor=%237B1E7A" />
    </a>
 </p>
