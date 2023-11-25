@@ -25,10 +25,10 @@ I'm a seasoned Technical Team Lead with a passion for building innovative SaaS a
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavt23&show_icons=true&theme=radical)]([Your GitHub Profile URL](https://github.com/abhinavt23))
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavt23&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 
 Feel free to reach out if you share a passion for technology, coding, or Fintech! Let's collaborate and build something amazing together.
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=abhinavt23.abhinavt23)]([Your GitHub Profile URL](https://github.com/abhinavt23)https://github.com/abhinavt23)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=abhinavt23.abhinavt23)
