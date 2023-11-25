@@ -19,7 +19,7 @@ I'm a seasoned Technical Team Lead with a passion for building innovative SaaS a
 
 ## 🌐 Connect with Me
 
-- [LinkedIn][(Your LinkedIn Profile URL)](https://www.linkedin.com/in/abhinavt23/)
+- [LinkedIn][(abhinavt23)](https://www.linkedin.com/in/abhinavt23/)
 - [Twitter](Your Twitter Profile URL)
 - [Personal Blog/Portfolio](Your Blog/Portfolio URL)
 
